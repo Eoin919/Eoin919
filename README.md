@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">🛠 Tech Stack</h3>
+<h1 align="left">🛠 Tech Stack</h1>
 
 ###
 
@@ -44,6 +44,6 @@
 
 ###
 
-<h3 align="left">🔥   Eoin's GitHub Stats :</h3>
+<h1 align="left">🔥   Eoin's GitHub Stats :</h1>
 
 ###
